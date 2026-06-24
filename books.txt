@@ -1,4 +1,6 @@
 Python Basics
+Deep Learning Fundamentals
 Advanced Python
 Data Science with Python
-yes
+Machine Learning Basics
+AI LEARNING
